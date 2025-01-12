@@ -1,0 +1,34 @@
+{
+  "build": "py313hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.10.0,<3.10.1.0a0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/matplotlib-3.10.0-py313hca03da5_0",
+  "files": [],
+  "fn": "matplotlib-3.10.0-py313hca03da5_0.conda",
+  "license": "LicenseRef-PSF-based",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/matplotlib-3.10.0-py313hca03da5_0",
+    "type": 1
+  },
+  "md5": "7495edffa5291f45c3dfeaf042c0be34",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/matplotlib-3.10.0-py313hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "c05b11a8bb68431d1669c57cfd3f914bb134f9c0c1bcb778c9f760bebb6c2a1b",
+  "size": 8303,
+  "subdir": "osx-arm64",
+  "timestamp": 1736278970000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/matplotlib-3.10.0-py313hca03da5_0.conda",
+  "version": "3.10.0"
+}
